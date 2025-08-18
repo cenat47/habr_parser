@@ -16,7 +16,7 @@
 
 ```bash
 git clone https://github.com/cenat47/habr_parser.git
-cd habrparser
+cd habr_parser
 pip install -r requirements.txt
 ```
 Запустить парсер:
@@ -40,6 +40,7 @@ articles.json
   }
 ]
 ```
+
 
 
 
