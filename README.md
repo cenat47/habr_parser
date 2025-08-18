@@ -15,7 +15,9 @@
 1. Установить зависимости:
 
 ```bash
-pip install requests bs4 fake-useragent lxml
+git clone https://github.com/cenat47/habr_parser.git
+cd habrparser
+pip install -r requirements.txt
 ```
 Запустить парсер:
 ```bash
@@ -38,5 +40,6 @@ articles.json
   }
 ]
 ```
+
 
 
