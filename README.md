@@ -16,8 +16,8 @@
 
 ```bash
 pip install requests bs4 fake-useragent lxml
-Запустить парсер:
 ```
+Запустить парсер:
 bash```
 python main.py
 ```
@@ -38,3 +38,4 @@ articles.json
   }
 ]
 ```
+
