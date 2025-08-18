@@ -18,13 +18,13 @@
 pip install requests bs4 fake-useragent lxml
 ```
 Запустить парсер:
-bash```
+```bash
 python main.py
 ```
 
 После выполнения появится файл:
 
-pgsql```
+```pgsql
 articles.json
 ```
 📦 Пример структуры JSON
@@ -38,4 +38,5 @@ articles.json
   }
 ]
 ```
+
 
